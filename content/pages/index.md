@@ -751,6 +751,10 @@ seo:
   metaTags:
     - type: MetaTag
       property: 'og:site_name'
+      content: >-
+        <meta name="description" content="Easily book your transfer from
+        Kaiserslautern to Frankfurt Airport with fixed prices and reliable
+        service. Travel in comfort with our professional drivers." />
     - type: MetaTag
 type: PageLayout
 ---
