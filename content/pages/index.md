@@ -750,7 +750,7 @@ seo:
   type: Seo
   metaTags:
     - type: MetaTag
-      property: 'og:title'
+      property: 'og:site_name'
     - type: MetaTag
 type: PageLayout
 ---
