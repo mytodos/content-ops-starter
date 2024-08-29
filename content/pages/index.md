@@ -750,7 +750,7 @@ seo:
   type: Seo
   metaTags:
     - type: MetaTag
-      property: 'og:site_name'
+      property: 'twitter:description'
       content: >-
         <meta name="description" content="Easily book your transfer from
         Kaiserslautern to Frankfurt Airport with fixed prices and reliable
